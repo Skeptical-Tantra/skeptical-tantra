@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktantra_sceptic=self.webpackChunktantra_sceptic||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/fr/blog/welcome"},{"title":"Hello","permalink":"/fr/blog/hello-world"},{"title":"Hola","permalink":"/fr/blog/hola"}]}')}}]);

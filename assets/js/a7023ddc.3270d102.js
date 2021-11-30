@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskeptical_tantra=self.webpackChunkskeptical_tantra||[]).push([[713],{3457:function(n){n.exports=JSON.parse('{"/blog/tags/announcement":{"allTagsPath":"/blog/tags","slug":"/blog/tags/announcement","name":"announcement","count":1,"permalink":"/blog/tags/announcement"}}')}}]);
