@@ -5,7 +5,7 @@ sidebar_position: 2
 
 **Attention** : pour l'instant, la totalité du contenu sur Internet à propos du Tantra est plus ou moins imprégné par les explications de la spiritualité New Age, c'est important de bien séparer les explications qui sont la plupart du temps à côté de la plaque scientifiquement parlant et les pratiques, dont une majeure partie pourraient être intéressantes à reprendre.
 
-D'ailleurs, nous nous ne baserons **pas** sur les auteurs connus dans le Néo-Tantra comme source d'information pour le Tantra Sceptique, car nous estimons que leur manque de connaissance dans la méthode Scientifique et leur amour pour la spiritualité New Age en fond des sources d'informations **non-fiables** pour expliquer les bienfaits du Tantra.
+D'ailleurs, nous ne nous baserons **pas** sur les auteurs connus dans le Néo-Tantra comme source d'information pour le Tantra Sceptique, car nous estimons que leur manque de connaissance dans la méthode Scientifique et leur amour pour la spiritualité New Age en font des sources d'informations **non-fiables** pour expliquer les bienfaits du Tantra.
 
 Un article assez générique à propos du Néo-Tantra :
 https://www.passeportsante.net/fr/Actualites/Dossiers/ArticleComplementaire.aspx?doc=sexualite_sante_tantra_do 
@@ -20,7 +20,7 @@ Un TEDx à propos du Néo-Tantra :
 https://www.youtube.com/watch?v=pv3w9M0niNY 
 
 Un reportage à propos du Néo-Tantra sur Netflix, c'est l'épisode 2 de la série "(Un)Well" ou "L'industrie du bien-être : potions et poisons".
-Attention, cela ne dure qu'une heure et ils ratissent très large, donc il montre très rapidement les aspects positifs et les dérives du Néo-Tantra sans nécessairement creuser, néanmoins les promoteurs du Tantra et les contradicteurs peuvent s'exprimer dans ce reportage :
+Attention, cela ne dure qu'une heure et ils ratissent très large, donc ils montrent très rapidement les aspects positifs et les dérives du Néo-Tantra sans nécessairement creuser, néanmoins les promoteurs du Tantra et les contradicteurs peuvent s'exprimer dans ce reportage :
 https://www.netflix.com/be-fr/title/81044208 
 
 En parlant des dérives du Néo-Tantra, un très bon épisode de Méta de Choc sur un témoignage d’une anti-tantrika, Maud : 
