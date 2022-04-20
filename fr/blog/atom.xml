@@ -18,5 +18,6 @@
             <name>Le Maître des Horloges</name>
             <uri>https://github.com/le-maitre-des-horloges</uri>
         </author>
+        <category label="annonce" term="annonce"/>
     </entry>
 </feed>

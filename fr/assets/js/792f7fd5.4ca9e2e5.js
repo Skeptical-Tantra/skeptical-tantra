@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskeptical_tantra=self.webpackChunkskeptical_tantra||[]).push([[9],{8345:function(t){t.exports=JSON.parse('{"permalink":"/fr/blog/tags/annonce","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

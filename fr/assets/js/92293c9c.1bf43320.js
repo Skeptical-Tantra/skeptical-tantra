@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskeptical_tantra=self.webpackChunkskeptical_tantra||[]).push([[136],{2249:function(a){a.exports=JSON.parse('{"annonce":{"allTagsPath":"/fr/blog/tags","name":"annonce","count":1,"permalink":"/fr/blog/tags/annonce"}}')}}]);

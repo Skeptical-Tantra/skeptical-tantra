@@ -7,6 +7,7 @@
         <lastBuildDate>Sun, 21 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <language>fr</language>
         <item>
             <title><![CDATA[Bienvenue]]></title>
             <link>https://skeptical-tantra.org/fr/blog/bienvenue</link>
@@ -14,6 +15,7 @@
             <pubDate>Sun, 21 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Bienvenue sur le site officiel du Tantra entre Sceptiques !]]></description>
             <content:encoded><![CDATA[<p>Bienvenue sur le site officiel du Tantra entre Sceptiques !</p>]]></content:encoded>
+            <category>annonce</category>
         </item>
     </channel>
 </rss>
