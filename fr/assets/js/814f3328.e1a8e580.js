@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkskeptical_tantra=self.webpackChunkskeptical_tantra||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Publications r\xe9centes","items":[{"title":"Bienvenue","permalink":"/fr/blog/bienvenue"}]}')}}]);
