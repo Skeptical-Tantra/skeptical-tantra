@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://skeptical-tantra.org/en/blog</id>
+    <title>Tantra between Skeptics - Touch experiments Blog</title>
+    <updated>2021-11-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://skeptical-tantra.org/en/blog"/>
+    <subtitle>Tantra between Skeptics - Touch experiments Blog</subtitle>
+    <icon>https://skeptical-tantra.org/en/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://skeptical-tantra.org/en/blog/welcome"/>
+        <updated>2021-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome on the official Website about Skeptical Tantra !]]></summary>
+        <content type="html"><![CDATA[<p>Welcome on the official Website about Skeptical Tantra !</p>]]></content>
+        <author>
+            <name>Le Maître des Horloges</name>
+            <uri>https://github.com/le-maitre-des-horloges</uri>
+        </author>
+        <category label="announcement" term="announcement"/>
+    </entry>
+</feed>

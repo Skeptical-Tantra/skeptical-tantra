@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskeptical_tantra=self.webpackChunkskeptical_tantra||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/en/blog/welcome"}]}')}}]);
