@@ -8,16 +8,16 @@
     <subtitle>Tantra between Skeptics - Touch experiments Blog</subtitle>
     <icon>https://skeptical-tantra.org/img/logo.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Bienvenue]]></title>
-        <id>bienvenue</id>
-        <link href="https://skeptical-tantra.org/blog/bienvenue"/>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://skeptical-tantra.org/blog/welcome"/>
         <updated>2021-11-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bienvenue sur le site officiel du Tantra entre Sceptiques !]]></summary>
-        <content type="html"><![CDATA[<p>Bienvenue sur le site officiel du Tantra entre Sceptiques !</p>]]></content>
+        <summary type="html"><![CDATA[Welcome on the official Website about Skeptical Tantra !]]></summary>
+        <content type="html"><![CDATA[<p>Welcome on the official Website about Skeptical Tantra !</p>]]></content>
         <author>
             <name>Le Maître des Horloges</name>
             <uri>https://github.com/le-maitre-des-horloges</uri>
         </author>
-        <category label="annonce" term="annonce"/>
+        <category label="announcement" term="announcement"/>
     </entry>
 </feed>
