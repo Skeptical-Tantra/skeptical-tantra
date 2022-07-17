@@ -19,7 +19,7 @@ Si une personne vous pousse à dépasser le cadre, en particulier une figure d'a
 
 ## 3. Ne prendre aucune substance qui altère le jugement
 
-Afin d'obtenir un consentement dans de bonnes conditions, aucune substance licite ou illite doit être pris comme l'alcool, drogues, médicaments, champignons...
+Afin d'obtenir un consentement dans de bonnes conditions, aucune substance licite ou illite, comme l'alcool, drogues, médicaments, champignons... ne doit être prise.
 
 Ceci pour garantir que le consentement recueilli est le plus éclairé possible.
 
@@ -57,7 +57,7 @@ Même si ce rapport de domination/soumission est entre personnes consentantes, i
 
 ## 9. Refuser les violences sexuelles et sexistes
 
-Le contenu de ce site Web peut être détourné par des prédatrices & prédateurs sexuels afin de commettre des violences sexuelles, il est important de le souligner et de rappeler à nouveau qu'il est extrêmement important de poser le cadre avant de pratiquer ainsi que respecter le cadre pendant, comme défini dans le point 2.
+Le contenu de ce site Web peut être détourné par des prédatrices & prédateurs sexuels afin de commettre des violences sexuelles, il est important de le souligner et de rappeler à nouveau qu'il est extrêmement important de poser le cadre avant de pratiquer ainsi que respecter le cadre pendant la pratique, comme défini dans le point 2.
 
 ## 10. Transmission de connaissances fiables
 
