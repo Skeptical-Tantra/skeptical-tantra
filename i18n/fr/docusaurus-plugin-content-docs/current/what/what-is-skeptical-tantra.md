@@ -46,7 +46,7 @@ Pour construire le cadre d'une session de Tantra entre Sceptiques, plusieurs opt
 
 ## Pourquoi “Tantra” ?
 
-Parce que la plupart des exercices dans le Tantra entre Sceptiques sont grandement inspirés des pratiques du Neo-Tantra, qui se basent principalement sur des croyances New Age pour justifier leurs exercices.
+Parce que la plupart des exercices dans le Tantra entre Sceptiques sont grandement inspirés des pratiques du Néo-Tantra, qui se basent principalement sur des croyances New Age pour justifier leurs exercices.
 
 ## Pourquoi “Sceptique” ?
 
