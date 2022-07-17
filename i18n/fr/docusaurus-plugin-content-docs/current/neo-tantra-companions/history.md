@@ -6,7 +6,7 @@ sidebar_position: 6
 
 L'histoire du New Age, qui sert de fondation au Néo-Tantra, commence avec Helena Blavatsky au 19° siècle: https://fr.wikipedia.org/wiki/Helena_Blavatsky
 
-Elle fonde la société théosophique et fait de l'appropriation culturelle orientale, notamment indienne.
+Elle fonde la société théosophique sur de l'appropriation culturelle orientale, notamment indienne.
 
 Wikipédia indique notamment cette inspiration du tantra traditionnel:
 https://fr.wikipedia.org/wiki/Helena_Blavatsky#La_Doctrine_secr%C3%A8te
@@ -16,19 +16,19 @@ https://fr.wikipedia.org/wiki/Helena_Blavatsky#La_Doctrine_secr%C3%A8te
 Voilà notamment ce que publie la société théosophique à propos des chakras:
 https://theosophy.wiki/en/Chakras
 
-Puis il y a eu l'élève de Blavatsky, Rudolf Steiner, qui a été beaucoup plus "ambitieux" que Blavatsky, en créant l'anthroposophie, une sorte de multi-nationale ésotérique, qui a servi d'inspiration à une galaxie de pratiques New Age :
+Puis est arrivé l'élève de Blavatsky, Rudolf Steiner, qui a été beaucoup plus "ambitieux" que Blavatsky, en créant l'anthroposophie, une sorte de multi-nationale ésotérique, qui a servi d'inspiration à une galaxie de pratiques New Age :
 https://fr.wikipedia.org/wiki/Anthroposophie
 
-Puis, il y a eu Osho, qui certes, n'était pas un grand fan du terme New Age:
+Puis, vint Osho, qui certes, n'était pas un grand fan du terme New Age:
 https://www.osho.com/fr/meditation/meditation-tool-kit/questions-about-meditation/is-meditation-just-for-people-who-know-a-lot-about-%22new-age%22-philosophy
-Néanmoins, sa source d'inspiration est la même que Blavatsky, avec la même vision du monde.
+Néanmoins, sa source d'inspiration est la même que celle de Blavatsky, avec la même vision du monde.
 
 Osho a créé les méditations actives, ainsi qu'une partie des exercices corporels en Tantra.
 
-Puis le massage tantrique inventé en 1977 à Berlin, afin de faire payer plus cher des massages érotiques, pour le coté exotisme:
+Puis le massage tantrique inventé en 1977 à Berlin, afin de monnayer plus cher des massages érotiques de par son côté exotique :
 https://www.wikiwand.com/en/Tantra_massage
 
-Puis Marilyn Ferguson a écrit "les enfants du verseau" en 1980 pour faire la synthèse de toute cette spiritualité alternative qu'elle a nommée New Age:
+Puis Marilyn Ferguson a écrit "les enfants du verseau" en 1980, où elle synthétise toute cette spiritualité alternative qu'elle a nommée New Age:
 https://fr.wikipedia.org/wiki/New_Age
 
 Avec notamment cette définition:
