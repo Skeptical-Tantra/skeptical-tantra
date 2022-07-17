@@ -9,6 +9,6 @@ id: seaweed-clownfish
     1. Fermer les yeux
     1. Ressentir un maximum les sensations de son corps et éventuellement son désir
 1. Pour le poisson clown:
-    1. Venir proche de la personne, tourner autour, toucher l’autre très délicatement, très lentement
+    1. Venir près de la personne, tourner autour d'elle, toucher l’autre très délicatement, très lentement
     1. Garder le cadre fixé par l’autre, notamment rester dans les zones autorisées
 1. Après l’exercice, faire un débriefing qui permet de s’exprimer sur les sensations ressenties et la perception de chaque personne
