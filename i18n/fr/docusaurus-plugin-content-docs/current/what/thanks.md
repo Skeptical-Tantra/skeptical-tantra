@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Le tantra entre Sceptiques ne serait rien sans toutes et tous ces bénévoles qui travaillent dans l'ombre pour expérimenter, gérer cette communauté, produire du contenu sur ce site Web et surtout, relire.
 
-Nous remercions autant les personnes qui sont dans une approche de tantra spirituel et qui ont assez d'ouverture d'esprit pour lire et faire des suggestions d'améliorations, même si elles n'en approuvent pas le contenu, que les sceptiques qui n'ont pas oublié le but originel de la zététique, et savent aller au delà du champ lexical du New-Age.
+Nous remercions autant les personnes qui sont dans une approche de tantra spirituel et qui ont assez d'ouverture d'esprit pour lire et proposer des suggestions d'améliorations, même si elles n'en approuvent pas le contenu, que les sceptiques qui n'ont pas oublié le but originel de la zététique, et savent aller au delà du champ lexical du New-Age.
 
 Pour des raisons d'anonymat, la plupart des noms ont été réduits à leur initiale:
 
