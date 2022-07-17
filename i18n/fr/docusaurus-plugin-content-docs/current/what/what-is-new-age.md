@@ -3,7 +3,7 @@ title: Qu'est ce que le New Age ?
 sidebar_position: 1
 ---
 
-Il existe beaucoup de ressources sur Internet qui décrit la spiritualité New Age.
+Il existe beaucoup de ressources sur Internet qui décrivent la spiritualité New Age.
 
 ## Définition
 
@@ -22,7 +22,7 @@ Si vous ne connaissez pas ce qu'est le New Age, voici [la définition disponible
 
 ## Méta de Choc
 
-Nous vous recommandons l'écoute du podcast [Méta de Choc](https://metadechoc.fr/) qui décortique d'un point de vue sceptique notament la spiritualité New Age.
+Nous vous recommandons l'écoute du podcast [Méta de Choc](https://metadechoc.fr/), qui décortique d'un point de vue sceptique notament la spiritualité New Age.
 
 Si vous ne connaissez pas Méta de Choc, [une vidéo de 6 minutes de la RTBF (Télévision publique Belge)](https://www.rtbf.be/auvio/detail_meta-de-choc-le-podcast-qui-permet-de-comprendre-comment-nous-pensons?id=2836973) qui présente ce podcast.
 
