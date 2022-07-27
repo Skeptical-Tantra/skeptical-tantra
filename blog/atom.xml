@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://skeptical-tantra.org/blog</id>
     <title>Tantra between Skeptics - Touch experiments Blog</title>
-    <updated>2021-11-21T00:00:00.000Z</updated>
+    <updated>2022-07-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://skeptical-tantra.org/blog"/>
     <subtitle>Tantra between Skeptics - Touch experiments Blog</subtitle>
@@ -11,12 +11,12 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://skeptical-tantra.org/blog/welcome"/>
-        <updated>2021-11-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome on the official Website about Skeptical Tantra !]]></summary>
-        <content type="html"><![CDATA[<p>Welcome on the official Website about Skeptical Tantra !</p>]]></content>
+        <updated>2022-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Work in progress, please read French version.]]></summary>
+        <content type="html"><![CDATA[<p>Work in progress, please read French version.</p>]]></content>
         <author>
-            <name>Le Maître des Horloges</name>
-            <uri>https://github.com/le-maitre-des-horloges</uri>
+            <name>Clovis Lacombe</name>
+            <uri>https://github.com/clovis-lacombe</uri>
         </author>
         <category label="announcement" term="announcement"/>
     </entry>

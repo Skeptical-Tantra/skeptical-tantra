@@ -4,7 +4,7 @@
         <title>Tantra between Skeptics - Touch experiments Blog</title>
         <link>https://skeptical-tantra.org/blog</link>
         <description>Tantra between Skeptics - Touch experiments Blog</description>
-        <lastBuildDate>Sun, 21 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,9 +12,9 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://skeptical-tantra.org/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Sun, 21 Nov 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome on the official Website about Skeptical Tantra !]]></description>
-            <content:encoded><![CDATA[<p>Welcome on the official Website about Skeptical Tantra !</p>]]></content:encoded>
+            <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Work in progress, please read French version.]]></description>
+            <content:encoded><![CDATA[<p>Work in progress, please read French version.</p>]]></content:encoded>
             <category>announcement</category>
         </item>
     </channel>

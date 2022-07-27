@@ -2,21 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://skeptical-tantra.org/fr/blog</id>
     <title>Tantra between Skeptics - Touch experiments Blog</title>
-    <updated>2021-11-21T00:00:00.000Z</updated>
+    <updated>2022-07-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://skeptical-tantra.org/fr/blog"/>
     <subtitle>Tantra between Skeptics - Touch experiments Blog</subtitle>
     <icon>https://skeptical-tantra.org/fr/img/logo.svg</icon>
     <entry>
         <title type="html"><![CDATA[Bienvenue]]></title>
-        <id>bienvenue</id>
-        <link href="https://skeptical-tantra.org/fr/blog/bienvenue"/>
-        <updated>2021-11-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bienvenue sur le site officiel du Tantra entre Sceptiques !]]></summary>
-        <content type="html"><![CDATA[<p>Bienvenue sur le site officiel du Tantra entre Sceptiques !</p>]]></content>
+        <id>welcome</id>
+        <link href="https://skeptical-tantra.org/fr/blog/welcome"/>
+        <updated>2022-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonjour tout le monde, nous avons une annonce à vous faire.]]></summary>
+        <content type="html"><![CDATA[<p>Bonjour tout le monde, nous avons une annonce à vous faire.</p><p>Cela va faire 5 ans que nous travaillons sur un projet en lien avec le scepticisme et la zététique, mais sur des sujets plus que sulfureux dans l'esprit du grand public, la méditation, les exercices de tantra ainsi que le massage tantrique du point de vue du scepticisme au lieu que les pratiques soient expliquées et décrites par des personnes proches de la spiritualité new age ou du tantra classique.</p><p>Pour la faire très courte, nous sommes une dizaine de tantrikas sceptiques à vouloir remplacer les explications dans le tantra basées sur la spiritualité par une approche sceptique des pratiques, parce que nous estimons qu'il n'y a pas besoin de spiritualité et encore moins de croire à l'existence des chakras, l'univers et autres croyances ésotériques pour s'autoriser à expérimenter au niveau du toucher.</p><p>Plus de détails: <a href="https://skeptical-tantra.org/fr/docs/what/what-is-skeptical-tantra" target="_blank" rel="noopener noreferrer">https://skeptical-tantra.org/fr/docs/what/what-is-skeptical-tantra</a></p><p>Nous avons également un code de conduite pour limiter au maximum les risques: <a href="https://skeptical-tantra.org/fr/docs/ethical/code-of-conduct" target="_blank" rel="noopener noreferrer">https://skeptical-tantra.org/fr/docs/ethical/code-of-conduct</a></p><p>Voici le site Web officiel:
+<a href="https://skeptical-tantra.org/fr/" target="_blank" rel="noopener noreferrer">https://skeptical-tantra.org/fr/</a></p><p>Merci pour vos retours honnêtes et francs.</p><p>Nous avons également un groupe Facebook privé pour vos questions:
+<a href="https://www.facebook.com/groups/tantraentresceptiques" target="_blank" rel="noopener noreferrer">https://www.facebook.com/groups/tantraentresceptiques</a></p><p>Ainsi qu'un compte Twitter:
+<a href="https://twitter.com/TantraSceptique" target="_blank" rel="noopener noreferrer">https://twitter.com/TantraSceptique</a></p><p>Encore merci, et n'hésitez pas à indiquer si vous voyiez des problèmes.</p><p>Et pour celles et ceux qui se demandent pourquoi le mot tantra a été gardé dans le nom, il y a une réponse dans notre FAQ:
+<a href="https://skeptical-tantra.org/fr/docs/what/faq#pourquoi-avoir-appeler-le-tantra-entre-sceptiques-ainsi--ne-serait-il-pas-mieux-de-retirer-le-mot-tantra-du-nom-" target="_blank" rel="noopener noreferrer">https://skeptical-tantra.org/fr/docs/what/faq#pourquoi-avoir-appeler-le-tantra-entre-sceptiques-ainsi--ne-serait-il-pas-mieux-de-retirer-le-mot-tantra-du-nom-</a></p><p>Bonne lecture !</p>]]></content>
         <author>
-            <name>Le Maître des Horloges</name>
-            <uri>https://github.com/le-maitre-des-horloges</uri>
+            <name>Clovis Lacombe</name>
+            <uri>https://github.com/clovis-lacombe</uri>
         </author>
         <category label="annonce" term="annonce"/>
     </entry>
