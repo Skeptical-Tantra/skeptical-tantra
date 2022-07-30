@@ -4,7 +4,7 @@ id: history
 sidebar_position: 6
 ---
 
-L'histoire du New Age, qui sert de fondation au Néo-Tantra, commence avec Helena Blavatsky au 19° siècle: https://fr.wikipedia.org/wiki/Helena_Blavatsky
+L'histoire du New Age, qui sert de fondation au Néo-Tantra, commence avec [Helena Blavatsky au 19° siècle](https://fr.wikipedia.org/wiki/Helena_Blavatsky).
 
 Elle fonde la société théosophique sur de l'appropriation culturelle orientale, notamment indienne.
 
@@ -28,8 +28,7 @@ Osho a créé les méditations actives, ainsi qu'une partie des exercices corpor
 Puis le massage tantrique inventé en 1977 à Berlin, afin de monnayer plus cher des massages érotiques de par son côté exotique :
 https://www.wikiwand.com/en/Tantra_massage
 
-Puis Marilyn Ferguson a écrit "les enfants du verseau" en 1980, où elle synthétise toute cette spiritualité alternative qu'elle a nommée New Age:
-https://fr.wikipedia.org/wiki/New_Age
+Puis Marilyn Ferguson a écrit "les enfants du verseau" en 1980, où elle synthétise toute cette spiritualité alternative qu'elle a nommée [New Age](https://fr.wikipedia.org/wiki/New_Age)
 
 Avec notamment cette définition:
 "Le sociologue des religions Michael York a décrit le Nouvel Âge comme « un terme générique qui inclut une grande variété de groupes et d'identités (qui sont unis par leur) attente d'un changement majeur et universel reposant principalement sur le développement individuel et collectif du potentiel humain »"
